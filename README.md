@@ -10,7 +10,7 @@
 <p>Names is an iOS app designed to capture contact notes and names of people you just met</p>
 
 <h2>TestFlight</h2>
-<p>TestFlight link soon available</p>
+<a href="https://testflight.apple.com/join/NuON0fEq">TestFlight</a>
 <br>
 
 <h3>Features</h3>
