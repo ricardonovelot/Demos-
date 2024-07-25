@@ -18,6 +18,7 @@
 <li><strong>Quick Capture</strong>  </li>
 <li><strong>See past entries trough feed </strong>  </li>
 <li><strong>Create Notes</strong>  </li>
+<li><strong>Adjust Image Cropping</strong>  </li>
 <li>Recover Recently Deleted Items</li>
 <li>Divide Contacts into Groups</li>
 </ul>
