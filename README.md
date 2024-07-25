@@ -1,6 +1,6 @@
 <h3><a href="https://github.com/ricardonovelot">❮‎‎‎ &nbsp; Recent Projects</a></h3>
 
-<h1>Names App</h1>
+<h1>Names</h1>
 
 <table>
 <tr>
