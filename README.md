@@ -6,7 +6,7 @@
 <tr>
 <td valign="top">
 
-<h2>About the Project</h2>
+<h2>About</h2>
 <p>Names is an iOS app designed to capture contact notes and names of people you just met</p>
 
 <h2>TestFlight</h2>
