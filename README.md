@@ -44,15 +44,15 @@
 <table align="center">
 <tr>
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/0b5728c2-f72d-45d5-9612-476832e0ab61" width="200">
+  <img src="https://github.com/user-attachments/assets/0b5728c2-f72d-45d5-9612-476832e0ab61" width="260">
 </td>
 
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/b2aa8ddd-cdeb-4d0a-95d5-5ef8df9632d0" width="200">
+  <img src="https://github.com/user-attachments/assets/b2aa8ddd-cdeb-4d0a-95d5-5ef8df9632d0" width="260">
 </td>
 
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/c901dbef-a4f0-4ae5-8eea-2f8d30732288" width="200">
+  <img src="https://github.com/user-attachments/assets/c901dbef-a4f0-4ae5-8eea-2f8d30732288" width="260">
 </td>
   
 </tr>
