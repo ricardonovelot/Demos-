@@ -18,8 +18,8 @@
 <li><strong>Quick Capture</strong>  </li>
 <li><strong>Smart Feed</strong>  </li>
 <li><strong>Notes</strong>  </li>
-<li><strong>Adjust Image Cropping</strong>  </li>
 <li><strong> Recently Deleted</strong></li>
+<li><strong>Adjust Image Cropping</strong>  </li>
 </ul>
 
 <h3>Technical Highlights</h3>
