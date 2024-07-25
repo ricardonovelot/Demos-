@@ -7,7 +7,7 @@
 <td valign="top">
 
 <h2>About</h2>
-<p>Names is an iOS app designed to capture contact notes and names of people you just met</p>
+<p>Names is an iOS app designed to capture contact notes and names of people just met</p>
 
 <h2>TestFlight</h2>
 <a href="https://testflight.apple.com/join/NuON0fEq">TestFlight Link</a>
