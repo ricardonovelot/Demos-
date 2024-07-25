@@ -16,11 +16,10 @@
 <h3>Features</h3>
 <ul>
 <li><strong>Quick Capture</strong>  </li>
-<li><strong>See past entries trough feed </strong>  </li>
-<li><strong>Create Notes</strong>  </li>
+<li><strong>Smart Feed</strong>  </li>
+<li><strong>Notes</strong>  </li>
 <li><strong>Adjust Image Cropping</strong>  </li>
-<li>Recover Recently Deleted Items</li>
-<li>Divide Contacts into Groups</li>
+<li>Recover Recently Deleted </li>
 </ul>
 
 <h3>Technical Highlights</h3>
