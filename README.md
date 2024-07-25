@@ -15,11 +15,11 @@
 
 <h3>Features</h3>
 <ul>
-<li><strong>Quick Capture</strong>  </li>
-<li><strong>Smart Feed</strong>  </li>
-<li><strong>Notes</strong>  </li>
-<li><strong> Recently Deleted</strong></li>
-<li><strong>Adjust Image Cropping</strong>  </li>
+<li>Quick Capture</li>
+<li>Smart Feed</li>
+<li>Notes</li>
+<li>Recently Deleted</li>
+<li>Adjust Image Cropping</li>
 </ul>
 
 <h3>Technical Highlights</h3>
