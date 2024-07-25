@@ -38,20 +38,20 @@
 </table>
 <br>
 
-<h1>Names</h1>
+<h2>Screenshots</h2>
 
 <table>
 <tr>
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/0b5728c2-f72d-45d5-9612-476832e0ab61" width="500">
+  <img src="https://github.com/user-attachments/assets/0b5728c2-f72d-45d5-9612-476832e0ab61" width="400">
 </td>
 
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/b2aa8ddd-cdeb-4d0a-95d5-5ef8df9632d0" width="500">
+  <img src="https://github.com/user-attachments/assets/b2aa8ddd-cdeb-4d0a-95d5-5ef8df9632d0" width="400">
 </td>
 
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/5340b6bc-51bd-4d64-9f0b-e9144a7792e6" width="500">
+  <img src="https://github.com/user-attachments/assets/5340b6bc-51bd-4d64-9f0b-e9144a7792e6" width="400">
 </td>
   
 </tr>
