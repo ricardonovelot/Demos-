@@ -37,21 +37,20 @@
 </tr>
 </table>
 <br>
-
 <h2>Screenshots</h2>
 
 <table align="center">
 <tr>
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/0b5728c2-f72d-45d5-9612-476832e0ab61" width="260">
+  <img src="https://github.com/user-attachments/assets/f557ed8e-d5ab-40fa-8a7d-3dc41e8f5be6" width="260">
 </td>
 
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/b2aa8ddd-cdeb-4d0a-95d5-5ef8df9632d0" width="260">
+  <img src="https://github.com/user-attachments/assets/f6fd2fe2-59d5-4996-be56-68a80eb261a0" width="260">
 </td>
 
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/c901dbef-a4f0-4ae5-8eea-2f8d30732288" width="260">
+  <img src="https://github.com/user-attachments/assets/9155d19f-5d4e-48ac-a674-297b9c786832" width="260">
 </td>
   
 </tr>
