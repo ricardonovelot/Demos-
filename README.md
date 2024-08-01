@@ -7,9 +7,12 @@
 <td valign="top">
 
 <h2>About</h2>
-<p>Names is an iOS app designed to help you capture and remember the people you meet, along with notes about them. <br>
+
+<p>
+    Approach every interaction with intention. <br> <br>
+    Names is an iOS app designed to help you capture and remember the people you meet, along with notes about them. <br> <br>
   Perfect for events or gatherings, Names helps you cultivate meaningful relationships by ensuring you remember the important details. <br>
-  Approach every interaction with intention.</p>
+</p>
 
 <h2>TestFlight</h2>
 <a href="https://testflight.apple.com/join/NuON0fEq">TestFlight Link</a>
