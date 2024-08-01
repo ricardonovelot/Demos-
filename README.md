@@ -32,7 +32,7 @@
 <br>
 
 </td>
-<td valign="top" width="500">
+<td valign="top" width="400">
 <img src="https://github.com/user-attachments/assets/3a4f9d10-0395-4a90-b206-b4af0f6c6f66" >
 </td>
 </tr>
