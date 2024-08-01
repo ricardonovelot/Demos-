@@ -11,7 +11,7 @@
 <p>
     Approach every interaction with intention. <br> <br>
     Names is an iOS app designed to help you capture and remember the people you meet, along with notes about them. <br> <br>
-  Perfect for events or gatherings, cultivate meaningful relationships by ensuring you remember the important details. <br>
+  Perfect for events or gatherings, cultivate relationships by ensuring you remember the important details. <br>
 </p>
 
 <h2>TestFlight</h2>
@@ -20,9 +20,9 @@
 
 <h3>Features</h3>
 <ul>
+<li>Private Cloud Storage</li>
 <li>Quick Capture</li>
 <li>Smart Feed</li>
-<li>Notes</li>
 <li>Recently Deleted</li>
 <li>Adjust Image Cropping</li>
 </ul>
