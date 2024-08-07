@@ -31,7 +31,6 @@
 <ul>
 <li>CoreData</li>
 <li>SwiftUI</li>
-<li>MVVM</li>
 <li>CloudKit</li>
 </ul>
 <br>
