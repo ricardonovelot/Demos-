@@ -9,9 +9,8 @@
 <h2>About</h2>
 
 <p>
-    Approach every interaction with intention. <br> <br>
     Names is designed to help you capture and remember the people you meet, along with notes. <br> <br>
-    Perfect for events or gatherings, cultivate relationships by ensuring you remember the important details. <br>
+    Perfect for events or gatherings, cultivate relationships, remember the important details. <br>
 </p>
 
 <h2>TestFlight</h2>
