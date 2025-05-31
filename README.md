@@ -35,7 +35,7 @@
 
 </td>
 <td valign="top" width="400">
-<img src="https://github.com/user-attachments/assets/your-image-id-here" >
+<img src="https://github.com/user-attachments/assets/0262ec1b-1c6c-41c9-b6f9-1cc0e5462344" >
 </td>
 </tr>
 </table>
