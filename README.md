@@ -22,16 +22,14 @@
 <li>High-Fidelity Design Simulations</li>
 <li>Variant Testing for Layouts & Flows</li>
 <li>Private Distribution via TestFlight</li>
-<li>Quick Iteration & Feedback Cycles</li>
 <li>Built for UX Research & Validation</li>
 </ul>
 
 <h3>Technical Highlights</h3>
 <ul>
-<li>SwiftUI</li>
-<li>CoreData</li>
-<li>MVVM Architecture</li>
-<li>Custom Prototyping Tools</li>
+<li>Custom Design System Architecture</li>
+<li>Brand-Agnostic Component System</li>
+<li>Advanced Animation & Transitions</li>
 </ul>
 <br>
 
