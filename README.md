@@ -43,11 +43,11 @@
 <table align="center">
 <tr>
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/screenshot-1.png" width="260">
+  <img src="https://github.com/user-attachments/assets/d52ea3ee-40de-4403-a083-a51b01b138db" width="260">
 </td>
 
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/screenshot-2.png" width="260">
+  <img src="https://github.com/user-attachments/assets/ca31a127-89c9-4fc1-95e2-16e7e1e3afb2" width="260">
 </td>
 
 <td valign="top">
