@@ -20,15 +20,14 @@
 <h3>Features</h3>
 <ul>
 <li>High-Fidelity Design Simulations</li>
-<li>Variant Testing for A/B/n testing</li>
-<li>Built for UX Research & Validation</li>
+<li>Capable of A/B/n testing</li>
+<li>Swap designs to different brans/theme</li>
 </ul>
 
 <h3>Technical Highlights</h3>
 <ul>
 <li>Custom Design System Architecture</li>
 <li>Custom Navigation</li>
-<li>Advanced Animation & Transitions</li>
 </ul>
 <br>
 
