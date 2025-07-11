@@ -52,7 +52,7 @@
 </td>
 
 <td valign="top">
-  <img src="https://github.com/user-attachments/assets/screenshot-3.png" width="260">
+  <img src="https://github.com/user-attachments/assets/f539af4e-3784-4082-ad3d-7edf635a5ee1" width="260">
 </td>
 </tr>
 </table>
