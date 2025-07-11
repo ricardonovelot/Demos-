@@ -10,7 +10,7 @@
 
 <p>
     Demos is an internal iOS app built by the UX Design team at Whirlpool to explore and test high-fidelity design concepts. <br><br>
-    Created from the ground up, it replicates the actual product experience to tweak and validate interface ideas through quick user tests and stakeholder reviews. <br>
+    Created from the ground up, it replicates the actual product experience to tweak and validate ideas through quick user tests and stakeholder reviews. <br>
 </p>
 
 <h2>TestFlight</h2>
@@ -19,9 +19,9 @@
 
 <h3>Features</h3>
 <ul>
-<li>High-Fidelity Design Simulations</li>
+<li>High-Fidelity Simulations</li>
 <li>Capable of A/B/n testing</li>
-<li>Swap designs to different brans/theme</li>
+<li>Swap between Brands/Theme</li>
 </ul>
 
 <h3>Technical Highlights</h3>
